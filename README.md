@@ -3,7 +3,7 @@
 Responsive countdown timer for tracking time until a future launch date. The page updates dynamically every second to reflect days, hours, minutes, and seconds remaining.
 
 ## 🌐 Live Demo  
-[👉 View Online](https://vanta-zjm.github.io/launch-countdown-timer/) ← 启用 Pages 后更新此链接
+[👉 View Online](https://vanta-zjm.github.io/launch-countdown-timer/)
 
 ## 📸 Preview  
 ![Project Screenshot](./assets/preview.png)
