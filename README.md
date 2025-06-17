@@ -6,7 +6,7 @@ Responsive countdown timer for tracking time until a future launch date. The pag
 [👉 View Online](https://vanta-zjm.github.io/launch-countdown-timer/)
 
 ## 📸 Preview  
-![Project Screenshot](./assets/preview.png)
+![Project Screenshot](assets/preview.png)
 
 ## 🛠️ Built With
 - HTML5
